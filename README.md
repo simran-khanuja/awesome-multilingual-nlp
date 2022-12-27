@@ -24,6 +24,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 ## Modeling
 
 ### Architectures
+[On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ### Models
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv preprint arXiv:2209.06794, Sep 2022
@@ -37,6 +38,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Datasets
+[On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ## Position Papers
 [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://aclanthology.org/2020.acl-main.560/), *Joshi et al.*, ACL 2020
