@@ -29,6 +29,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 ### Models
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv preprint arXiv:2209.06794, Sep 2022
 
+[Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW), *Chung et al.*, ICLR 2021
+
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
 
