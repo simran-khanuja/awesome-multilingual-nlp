@@ -7,6 +7,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 * [Modeling](#modeling)
   * [Architectures](#architectures)
   * [Models](#models)
+  * [Fine-tuning](#fine-tuning)
 * [Evaluation](#evaluation)
 * [Datasets](#datasets)
 * [Analysis](#analysis)
@@ -33,6 +34,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW), *Chung et al.*, ICLR 2021
 
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
+
+### Fine-tuning
+[From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers](https://aclanthology.org/2020.emnlp-main.363/), *Lauscher et al.*, EMNLP 2020
 
 
 ## Evaluation
