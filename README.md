@@ -9,6 +9,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
   * [Models](#models)
 * [Evaluation](#evaluation)
 * [Datasets](#datasets)
+* [Analysis](#analysis)
 * [Position Papers](#position-papers)
 * [Blog Posts](#blog-posts)
 * [Workshops](#workshops)
@@ -34,13 +35,18 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
 
-
 ## Evaluation
 [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080), *Hu et al.*, ICML 2020
 
 
 ## Datasets
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
+
+## Analysis
+[When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://aclanthology.org/2022.naacl-main.264/), *Deshpande et al.*, NAACL 2022
+
+[Identifying Elements Essential for BERT’s Multilinguality](https://aclanthology.org/2020.emnlp-main.358/), *Dufter et al.*, EMNLP 2020
+
 
 ## Position Papers
 [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://aclanthology.org/2020.acl-main.560/), *Joshi et al.*, ACL 2020
