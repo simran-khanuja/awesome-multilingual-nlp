@@ -21,7 +21,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 # Research Papers
 
 ## Survey Papers
-[A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676), *Doddapaneni et al.*, arXiv preprint arXiv:2107.00676, Jul 2021
+[A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676), *Doddapaneni et al.*, arXiv:2107.00676, Jul 2021
+
+[A Survey of Multilingual Models for Automatic Speech Recognition](https://aclanthology.org/2022.lrec-1.542/), *Yadav et al.*, LREC 2022
 
 ## Modeling
 
@@ -29,7 +31,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ### Models
-[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv preprint arXiv:2209.06794, Sep 2022
+[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv:2209.06794, Sep 2022
+
+[mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374), *Bapna et al.*, arXiv:2202.01374, Feb 2022
 
 [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW), *Chung et al.*, ICLR 2021
 
