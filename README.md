@@ -31,7 +31,11 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ### Models
+[Mu2SLAM: Multitask, Multilingual Speech and Language Models](https://arxiv.org/abs/2212.09553), *Cheng et al.*, arXiv:2212.09553, Dec 2022
+
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv:2209.06794, Sep 2022
+
+[MAESTRO: Matched Speech Text Representations through Modality Matching](https://arxiv.org/abs/2204.03409), *Chen et al.*, Interspeech 2022
 
 [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374), *Bapna et al.*, arXiv:2202.01374, Feb 2022
 
