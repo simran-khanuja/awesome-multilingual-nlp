@@ -21,9 +21,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 # Research Papers
 
 ## Survey Papers
-[A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676), *Doddapaneni et al.*, arXiv:2107.00676, Jul 2021
-
 [A Survey of Multilingual Models for Automatic Speech Recognition](https://aclanthology.org/2022.lrec-1.542/), *Yadav et al.*, LREC 2022
+
+[A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676), *Doddapaneni et al.*, arXiv:2107.00676, Jul 2021
 
 ## Modeling
 
@@ -52,6 +52,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Datasets
+[Visually Grounded Reasoning across Languages and Cultures](https://aclanthology.org/2021.emnlp-main.818/), *Liu et al.*, EMNLP 2021
+
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ## Analysis
