@@ -16,7 +16,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 * [Workshops](#workshops)
 * [Tutorials](#tutorials)
 * [Courses](#courses)
-* [\[Bonus\] Non-NLP Papers](#bonus-non-nlp-papers)
+* [\[Bonus\] Non-NLP References](#bonus-non-nlp-references)
 
 # Research Papers
 
@@ -82,6 +82,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 ## Courses
 [Multilingual NLP](http://phontron.com/class/multiling2022/), CMU CS 11-737, Spring 2022
 
-## [Bonus] Non-NLP Papers
+## [Bonus] Non-NLP References
+[The digital language divide](https://labs.theguardian.com/digital-language-divide/), *Holly Young*
 
 
