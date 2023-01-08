@@ -39,6 +39,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv:2209.06794, Sep 2022
 
+[Few-shot Learning with Multilingual Generative Language Models](https://arxiv.org/pdf/2112.10668.pdf), *Lin et al.*, EMNLP 2022
+
 [MAESTRO: Matched Speech Text Representations through Modality Matching](https://arxiv.org/abs/2204.03409), *Chen et al.*, Interspeech 2022
 
 [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374), *Bapna et al.*, arXiv:2202.01374, Feb 2022
@@ -60,6 +62,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Datasets
+[Few-shot Learning with Multilingual Generative Language Models](https://arxiv.org/pdf/2112.10668.pdf), *Lin et al.*, EMNLP 2022
+
 [Language Models are Multilingual Chain-of-thought Reasoners](https://arxiv.org/pdf/2210.03057.pdf), *Shi et al.*, 	arXiv:2210.03057, Oct 2022
 
 [Visually Grounded Reasoning across Languages and Cultures](https://aclanthology.org/2021.emnlp-main.818/), *Liu et al.*, EMNLP 2021
@@ -67,6 +71,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ## Analysis
+[Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf), *Artetxe et al.*, EMNLP 2022
+
 [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://aclanthology.org/2022.naacl-main.264/), *Deshpande et al.*, NAACL 2022
 
 [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://aclanthology.org/2022.tacl-1.4.pdf), *Kreutzer et al.*, TACL 2022
@@ -79,6 +85,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Position Papers
+[Toward More Meaningful Resources for Lower-resourced Languages](https://aclanthology.org/2022.findings-acl.44.pdf), *Lignos et al.*, ACL Findings 2022
+
 [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://aclanthology.org/2020.acl-main.560/), *Joshi et al.*, ACL 2020
 
 
