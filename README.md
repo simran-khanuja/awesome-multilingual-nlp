@@ -35,6 +35,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 ### Models
 [Mu2SLAM: Multitask, Multilingual Speech and Language Models](https://arxiv.org/abs/2212.09553), *Cheng et al.*, arXiv:2212.09553, Dec 2022
 
+[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf), *BigScience Workshop*, arXiv:2211.05100, Nov 2022
+
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), *Chen et al.*, arXiv:2209.06794, Sep 2022
 
 [MAESTRO: Matched Speech Text Representations through Modality Matching](https://arxiv.org/abs/2204.03409), *Chen et al.*, Interspeech 2022
@@ -44,6 +46,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2021/conneau21_interspeech.pdf), *Conneau et al.*, Interspeech 2021
 
 [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW), *Chung et al.*, ICLR 2021
+
+[Larger-Scale Transformers for Multilingual Masked Language Modeling](https://aclanthology.org/2021.repl4nlp-1.4.pdf), *Goyal et al.*, RepL4NLP-2021
 
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
@@ -65,7 +69,11 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 ## Analysis
 [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://aclanthology.org/2022.naacl-main.264/), *Deshpande et al.*, NAACL 2022
 
+[Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://aclanthology.org/2022.tacl-1.4.pdf), *Kreutzer et al.*, TACL 2022
+
 [Cultural and Geographical Influences on Image Translatability of Words across Languages](https://aclanthology.org/2021.naacl-main.19/), *Khani et al.*, NAACL 2021
+
+[Language Models are Few-shot Multilingual Learners](https://aclanthology.org/2021.mrl-1.1.pdf), *Winata et al.*, MRL 2021
 
 [Identifying Elements Essential for BERT’s Multilinguality](https://aclanthology.org/2020.emnlp-main.358/), *Dufter et al.*, EMNLP 2020
 
