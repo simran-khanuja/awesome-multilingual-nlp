@@ -39,6 +39,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374), *Bapna et al.*, arXiv:2202.01374, Feb 2022
 
+[Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2021/conneau21_interspeech.pdf), *Conneau et al.*, Interspeech 2021
+
 [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW), *Chung et al.*, ICLR 2021
 
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
@@ -52,12 +54,16 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Datasets
+[Language Models are Multilingual Chain-of-thought Reasoners](https://arxiv.org/pdf/2210.03057.pdf), *Shi et al.*, 	arXiv:2210.03057, Oct 2022
+
 [Visually Grounded Reasoning across Languages and Cultures](https://aclanthology.org/2021.emnlp-main.818/), *Liu et al.*, EMNLP 2021
 
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ## Analysis
 [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://aclanthology.org/2022.naacl-main.264/), *Deshpande et al.*, NAACL 2022
+
+[Cultural and Geographical Influences on Image Translatability of Words across Languages](https://aclanthology.org/2021.naacl-main.19/), *Khani et al.*, NAACL 2021
 
 [Identifying Elements Essential for BERT’s Multilinguality](https://aclanthology.org/2020.emnlp-main.358/), *Dufter et al.*, EMNLP 2020
 
@@ -72,7 +78,6 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Multi-domain Multilingual Question Answering](https://ruder.io/multi-qa-tutorial/), *Sebastian Ruder*, Dec 2021
 
 [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/), *Sebastian Ruder*, Aug 2020
-
 
 
 ## Workshops
