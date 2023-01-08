@@ -5,7 +5,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 * [Survey Papers](#survey-papers)
 * [Modeling](#modeling)
-  * [Architectures](#architectures)
+  * [Methods](#methods)
   * [Models](#models)
   * [Fine-tuning](#fine-tuning)
 * [Evaluation](#evaluation)
@@ -27,7 +27,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 ## Modeling
 
-### Architectures
+### Methods
+[When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Model](https://arxiv.org/pdf/2010.12858.pdf), *Muller et al.*, NAACL-HLT 2021
+
 [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ### Models
