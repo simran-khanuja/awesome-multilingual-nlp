@@ -51,6 +51,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 [Larger-Scale Transformers for Multilingual Masked Language Modeling](https://aclanthology.org/2021.repl4nlp-1.4.pdf), *Goyal et al.*, RepL4NLP-2021
 
+[MuRIL: Multilingual Representations for Indian Languages](https://arxiv.org/pdf/2103.10730.pdf), *Khanuja et al.*, arXiv:2103.10730, March 2021
+
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
 ### Fine-tuning
