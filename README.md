@@ -56,6 +56,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
 ### Fine-tuning
+[Role of Language Relatedness in Multilingual Fine-tuning of Language Models: A Case Study in Indo-Aryan Languages](https://arxiv.org/pdf/2109.10534.pdf), *Dhamecha et al.*, EMNLP 2021
+
 [From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers](https://aclanthology.org/2020.emnlp-main.363/), *Lauscher et al.*, EMNLP 2020
 
 
