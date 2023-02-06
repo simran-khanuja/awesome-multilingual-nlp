@@ -5,8 +5,9 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 * [Survey Papers](#survey-papers)
 * [Modeling](#modeling)
-  * [Methods](#methods)
   * [Models](#models)
+  * [\[Methods\] General](#methods-general)
+  * [\[Methods\] Task-Specific](#methods-task-specific)
   * [Fine-tuning](#fine-tuning)
 * [Evaluation](#evaluation)
 * [Datasets](#datasets)
@@ -26,11 +27,6 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676), *Doddapaneni et al.*, arXiv:2107.00676, Jul 2021
 
 ## Modeling
-
-### Methods
-[When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Model](https://arxiv.org/pdf/2010.12858.pdf), *Muller et al.*, NAACL-HLT 2021
-
-[On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020 
 
 ### Models
 [Mu2SLAM: Multitask, Multilingual Speech and Language Models](https://arxiv.org/abs/2212.09553), *Cheng et al.*, arXiv:2212.09553, Dec 2022
@@ -55,6 +51,26 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116), *Conneau et al.*, ACL 2020
 
+### [Methods] General
+[Overlap-based Vocabulary Generation Improves Cross-lingual Transfer Among Related Languages](https://aclanthology.org/2022.acl-long.18/), *Patil et al.*, ACL 2022
+
+[When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Model](https://arxiv.org/pdf/2010.12858.pdf), *Muller et al.*, NAACL-HLT 2021
+
+[On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856), *Artetxe et al.*, ACL 2020
+
+
+
+### [Methods] Task-Specific
+[Domain Adaptation in Multilingual and Multi-Domain Monolingual Settings for Complex Word Identification](https://aclanthology.org/2022.acl-long.6/),  *Zaharia et al.*, ACL 2022
+
+[An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition](https://aclanthology.org/2022.acl-long.14/), *Li et al.*, ACL 2022
+
+[Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation](https://aclanthology.org/2022.acl-long.12/), *Chen et al.*, ACL 2022
+
+[Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization](https://aclanthology.org/2022.acl-long.42/), *Jia et al.*, ACL 2022
+
+[Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment](https://aclanthology.org/2022.acl-long.36/), *Huang et al.*, ACL 2022
+
 ### Fine-tuning
 [Role of Language Relatedness in Multilingual Fine-tuning of Language Models: A Case Study in Indo-Aryan Languages](https://arxiv.org/pdf/2109.10534.pdf), *Dhamecha et al.*, EMNLP 2021
 
@@ -78,6 +94,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf), *Artetxe et al.*, EMNLP 2022
 
 [When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer](https://aclanthology.org/2022.naacl-main.264/), *Deshpande et al.*, NAACL 2022
+
+[Computational Historical Linguistics and Language Diversity in South Asia](https://aclanthology.org/2022.acl-long.99/), *Arora et al.*, ACL 2022
 
 [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://aclanthology.org/2022.tacl-1.4.pdf), *Kreutzer et al.*, TACL 2022
 
