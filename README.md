@@ -72,12 +72,18 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 [Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment](https://aclanthology.org/2022.acl-long.36/), *Huang et al.*, ACL 2022
 
 ### Fine-tuning
+[On Efficiently Acquiring Annotations for Multilingual Models](https://aclanthology.org/2022.acl-short.9/), *Moniz et al.*, ACL 2022
+
 [Role of Language Relatedness in Multilingual Fine-tuning of Language Models: A Case Study in Indo-Aryan Languages](https://arxiv.org/pdf/2109.10534.pdf), *Dhamecha et al.*, EMNLP 2021
 
 [From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers](https://aclanthology.org/2020.emnlp-main.363/), *Lauscher et al.*, EMNLP 2020
 
+[Choosing Transfer Languages for Cross-Lingual Learning](https://aclanthology.org/P19-1301/), *Lin et al.*, ACL 2019
+
 
 ## Evaluation
+[Multi Task Learning For Zero Shot Performance Prediction of Multilingual Models](https://aclanthology.org/2022.acl-long.374/), *Ahuja et al.*, ACL 2022
+
 [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080), *Hu et al.*, ICML 2020
 
 
@@ -107,6 +113,8 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 
 ## Position Papers
+[Challenges and Strategies in Cross-Cultural NLP](https://aclanthology.org/2022.acl-long.482/), *Hershcovich et al.*, ACL 2022
+
 [Toward More Meaningful Resources for Lower-resourced Languages](https://aclanthology.org/2022.findings-acl.44.pdf), *Lignos et al.*, ACL Findings 2022
 
 [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://aclanthology.org/2020.acl-main.560/), *Joshi et al.*, ACL 2020
@@ -129,5 +137,7 @@ A repository to maintain work being done in the field of multilingual NLP, to en
 
 ## [Bonus] Non-NLP References
 [The digital language divide](https://labs.theguardian.com/digital-language-divide/), *Holly Young*
+
+[The Multilingual Mind: A Modular Processing Perspective](https://www.cambridge.org/mq/titles/multilingual-mind-modular-processing-perspective), *Michael Sharwood Smith, John Truscott*
 
 
